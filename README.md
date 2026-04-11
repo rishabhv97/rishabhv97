@@ -2,9 +2,9 @@
 
 ### A passionate  developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhv97" alt="rishabhv97" /></a> </p>
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/17MIql75DsHjm27EzdKKSTB3XHE1ztpLF/view?usp=sharing](https://drive.google.com/file/d/17MIql75DsHjm27EzdKKSTB3XHE1ztpLF/view?usp=sharing)**
+
+- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/17MIql75DsHjm27EzdKKSTB3XHE1ztpLF/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
