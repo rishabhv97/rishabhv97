@@ -10,55 +10,9 @@
 
 - 🎓 CS Engineering (AI/ML)
 - 🛠️ Building ideas → products → experiments
-- 🧩 Obsessed with systems, psychology & tech
-- 🚀 Goal: Create something people *actually use*
-
+- 
 ---
 
-## 🎮 Mini Zone (Try these)
-
-### 1. 🧩 Pattern Decoder
-> Can you spot the pattern?
-
-
-<details>
-<summary>Reveal Answer</summary>
-
-👉 Formula: n × (n + 1)  
-👉 So, 5 → 5 × 6 = **30**
-
-</details>
-
----
-
-### 2. ⚡ Focus Challenge
-
-> You have 10 seconds. No cheating.
-
-Count how many **"F"** are in this sentence:
-
-<details>
-<summary>Reveal Answer</summary>
-
-👉 There are **6 F's**  
-(Most people miss the ones in "OF")
-
-</details>
-
----
-
-### 3. 🧠 Developer Riddle
-
-> Think like a programmer.
-
-<details>
-<summary>Reveal Answer</summary>
-
-👉 **Comment**
-
-</details>
-
----
 
 ## 🛠️ Tech Stack
 
