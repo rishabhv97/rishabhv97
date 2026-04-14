@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rishabh  
+# I'm Rishabh  
 
 ### ⚡ Building things, breaking patterns, thinking differently  
 
