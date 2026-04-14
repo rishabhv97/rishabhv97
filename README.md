@@ -1,23 +1,96 @@
-#  I'm Rishabh
+# 👋 Hey, I'm Rishabh  
 
-### A passionate  developer
+### ⚡ Building things, breaking patterns, thinking differently  
+
+> "Most people scroll. I build."
+
+---
+
+## 🧠 About Me
+
+- 🎓 CS Engineering (AI/ML)
+- 🛠️ Building ideas → products → experiments
+- 🧩 Obsessed with systems, psychology & tech
+- 🚀 Goal: Create something people *actually use*
+
+---
+
+## 🎮 Mini Zone (Try these)
+
+### 1. 🧩 Pattern Decoder
+> Can you spot the pattern?
 
 
+<details>
+<summary>Reveal Answer</summary>
 
-- 📄 Know about my experiences **[resume](https://drive.google.com/file/d/17MIql75DsHjm27EzdKKSTB3XHE1ztpLF/view?usp=sharing)**
+👉 Formula: n × (n + 1)  
+👉 So, 5 → 5 × 6 = **30**
 
-<h3 align="left">Connect with me:</h3>
+</details>
+
+---
+
+### 2. ⚡ Focus Challenge
+
+> You have 10 seconds. No cheating.
+
+Count how many **"F"** are in this sentence:
+
+<details>
+<summary>Reveal Answer</summary>
+
+👉 There are **6 F's**  
+(Most people miss the ones in "OF")
+
+</details>
+
+---
+
+### 3. 🧠 Developer Riddle
+
+> Think like a programmer.
+
+<details>
+<summary>Reveal Answer</summary>
+
+👉 **Comment**
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://github.com/rishabhv97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishabhv97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh-verma-4b8168350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-verma-4b8168350" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,mongodb,express,python,git,linux,docker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhv97&show_icons=true&locale=en&layout=compact" alt="rishabhv97" /></p>
+## 📊 Dev Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhv97&show_icons=true&locale=en" alt="rishabhv97" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhv97&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhv97&" alt="rishabhv97" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhv97&theme=tokyonight" />
+</p>
 
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://github.com/rishabhv97"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://linkedin.com/in/rishabh-verma-4b8168350"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+</p>
+
+---
+
+## 🧭 Current Mission
+
+> Building tools that reduce distraction and increase clarity.
+
+If you're working on something meaningful, let's connect.
