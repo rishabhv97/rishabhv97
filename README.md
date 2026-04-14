@@ -21,10 +21,11 @@
 </p>
 
 ---
-## 🎮 Play My Game
+## 💬 Thought Stream
 
-👉 [Click here to play](https://rishabhv97.github.io/mini-game/)
-## 📊 Dev Stats
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+in+public;Learning+daily;Thinking+in+systems;Creating+impact" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhv97&show_icons=true&theme=tokyonight" />
