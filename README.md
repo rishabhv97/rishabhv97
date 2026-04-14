@@ -21,7 +21,9 @@
 </p>
 
 ---
+## 🎮 Play My Game
 
+👉 [Click here to play](https://rishabhv97.github.io/mini-game/)
 ## 📊 Dev Stats
 
 <p align="center">
