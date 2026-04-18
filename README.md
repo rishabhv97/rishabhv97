@@ -1,3 +1,4 @@
+
 # I'm Rishabh  
 
 ### ⚡ Building things, breaking patterns, thinking differently  
@@ -5,17 +6,10 @@
 > "Most people scroll. I build."
 
 ---
-
 ![pacman](https://github.com/rishabhv97/pacman-game/blob/output/pacman-contribution-graph.svg)
-
 ---
 
-## 🧠 About Me
 
-- 🎓 CS Engineering (AI/ML)
-- 🛠️ Trying building ideas → products 
-- 📫 Reach me <b>rishabhv2100@gmail.com</b>
----
 ## Currently Building
 
 > Building tools that reduce distraction and increase clarity.
@@ -24,11 +18,21 @@ If you're working on something meaningful, let's connect.
 
 ---
 
+
 ## 🌐 Connect
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/rishabh-verma-4b8168350"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
-</p>
+</p> -->
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhv97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-verma-4b8168350)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhv2100@gmail.com)
+
+</div>
+<br/>
+
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabhv97&theme=github-dark)
 
@@ -61,39 +65,39 @@ If you're working on something meaningful, let's connect.
 <div align="center">
 
 <!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=cpp" width="90">
-<img src="https://skillicons.dev/icons?i=c" width="90">
-<img src="https://skillicons.dev/icons?i=java" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="90">
-<img src="https://skillicons.dev/icons?i=ts" width="90">
-<img src="https://skillicons.dev/icons?i=python" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="50">
+<img src="https://skillicons.dev/icons?i=c" width="50">
+<img src="https://skillicons.dev/icons?i=java" width="50">
+<img src="https://skillicons.dev/icons?i=js" width="50">
+<img src="https://skillicons.dev/icons?i=ts" width="50">
+<img src="https://skillicons.dev/icons?i=python" width="50">
 
 <!-- Row 2 -->
-<img src="https://skillicons.dev/icons?i=html" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="90">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="90">
-<img src="https://skillicons.dev/icons?i=angular" width="90">
-<img src="https://skillicons.dev/icons?i=vue" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="50">
+<img src="https://skillicons.dev/icons?i=css" width="50">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50">
+<img src="https://skillicons.dev/icons?i=react" width="50">
+<img src="https://skillicons.dev/icons?i=angular" width="50">
+<img src="https://skillicons.dev/icons?i=vue" width="50">
 
 <!-- Row 3 -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="90">
-<img src="https://skillicons.dev/icons?i=express" width="90">
-<img src="https://skillicons.dev/icons?i=django" width="90">
-<img src="https://skillicons.dev/icons?i=spring" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50">
+<img src="https://skillicons.dev/icons?i=express" width="50">
+<img src="https://skillicons.dev/icons?i=django" width="50">
+<img src="https://skillicons.dev/icons?i=spring" width="50">
 
 <!-- Row 4 -->
-<img src="https://skillicons.dev/icons?i=mongodb" width="90">
-<img src="https://skillicons.dev/icons?i=mysql" width="90">
-<img src="https://skillicons.dev/icons?i=postgres" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50">
+<img src="https://skillicons.dev/icons?i=mysql" width="50">
+<img src="https://skillicons.dev/icons?i=postgres" width="50">
 
 <!-- Row 5 -->
-<img src="https://skillicons.dev/icons?i=git" width="90">
-<img src="https://skillicons.dev/icons?i=docker" width="90">
-<img src="https://skillicons.dev/icons?i=firebase" width="90">
-<img src="https://skillicons.dev/icons?i=azure" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="50">
+<img src="https://skillicons.dev/icons?i=docker" width="50">
+<img src="https://skillicons.dev/icons?i=firebase" width="50">
+<img src="https://skillicons.dev/icons?i=azure" width="50">
+<img src="https://skillicons.dev/icons?i=linux" width="50">
 
 </div>
 
